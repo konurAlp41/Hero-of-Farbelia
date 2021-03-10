@@ -1,0 +1,353 @@
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Hero of Farbelia.exe
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Hero of Farbelia.pdb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\obj\x86\Debug\Hero of Farbelia.exe
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\obj\x86\Debug\Hero of Farbelia.pdb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\35mask.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\17mask.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\19mask.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\16mask.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\13.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\10mask.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\36.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\7mask.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\32mask.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\10.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\15.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\8mask.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\2mask.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\26.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\37.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\0mask.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\18.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\5mask.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\20mask.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\34.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\21mask.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\11.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\15front.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\27.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\29.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\31mask.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\0.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\34front.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\19.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\35.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\7.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\24mask.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\36mask.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\37mask.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\23mask.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\25mask.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\1mask.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\16.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\32.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\6.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\6mask.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\22mask.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\9mask.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\24.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\11mask.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\17.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\22.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\5.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\28mask.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\33.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\4mask.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\4.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\14.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\8.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\21front.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\30.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\27mask.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\29mask.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\26mask.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\23.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\30mask.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\14mask.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\20.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\13mask.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\15mask.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\3.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\31.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\8front.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\Hero.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\12mask.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\28.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\2.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\9.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\21.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\12.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\18mask.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\25.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\34mask.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\1.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\33mask.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\table.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\kasabahalkı.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\font.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\saat.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\akrep.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\Items.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ItemSelected.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ItemMenu.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\blocks.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\map.xnb
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\3mask.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\19.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\saat.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\28mask.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\22mask.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\13.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\5mask.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ItemSelected.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\31.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\21front.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\18mask.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\21mask.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ItemMenu.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\12mask.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\14.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\2.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\11mask.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\8front.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\33mask.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\21.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\19mask.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\9mask.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\36.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\36mask.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\33.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\Items.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\Hero.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\23mask.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\table.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\35mask.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\26.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\34.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\10.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\26mask.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\29.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\12.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\5.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\23.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\25mask.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\16mask.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\4.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\28.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\15mask.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\24.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\15.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\37mask.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\29mask.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\34mask.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\18.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\34front.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\30.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\7.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\27mask.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\0mask.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\24mask.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\17mask.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\14mask.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\17.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\map.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\20.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\35.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\6.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\22.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\3mask.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\akrep.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\7mask.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\1.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\32.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\2mask.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\kasabahalkı.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\25.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\4mask.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\1mask.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\font.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\30mask.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\13mask.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\11.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\37.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\27.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\0.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\3.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\8.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\20mask.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\9.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\32mask.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\blocks.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\15front.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\8mask.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\16.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\10mask.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\31mask.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\6mask.xnb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Hero of Farbelia.exe
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Hero of Farbelia.pdb
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\obj\x86\Debug\Hero of Farbelia.exe
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\obj\x86\Debug\Hero of Farbelia.pdb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\obj\x86\Debug\Hero of Farbelia.exe
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\obj\x86\Debug\Hero of Farbelia.pdb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\27.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\3mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\8front.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\35.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\18.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\12.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\4mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\21front.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\4.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\28.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\22.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\37mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\17mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\0mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\30.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\23mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\5.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\28mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\25mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\13.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\14.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\1mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\34mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\14mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\24.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\37.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\Hero.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\11.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\6.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\30mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\10mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\saat.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\font.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\21.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\Items.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\36mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\16mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\0.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ItemMenu.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ItemSelected.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\22mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\32.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\7.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\33mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\13mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\18mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\16.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\35mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\15mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\5mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\9mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\21mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\8.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\26.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\8mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\akrep.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\19.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\34.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\27mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\20mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\1.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\29.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\2.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\23.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\29mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\34front.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\9.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\31.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\32mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\12mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\15.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\20.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\table.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\2mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\map.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\25.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\31mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\11mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\7mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\36.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\10.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\6mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\26mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\15front.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\19mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\33.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\kasabahalkı.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\17.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\blocks.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\3.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\24mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Hero of Farbelia.exe
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Hero of Farbelia.pdb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\menuler.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\cast0mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\door.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\dooor.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\can8.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\parçacık.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\canbar.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\can6.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\can0.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\can1.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\can3.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\can7.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\canbol.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\can5.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\can2.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\kayıkçı.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\kalkancan.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\can4.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\cast1mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\cast3.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\cast2.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\cast3mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\cast4mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\cast5mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\cast4.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\cast5.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\cast2mask.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\kapi.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\boss0.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\boss1.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\boss2.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\boss4.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\boss3.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\megadalga.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\anam.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\end.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\inst.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\not.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\cast0.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\cast1.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ThemeCastle.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ThemeTown.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ThemeTown.wma
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ThemeCastle.wma
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ThemeHaunted.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ThemeHaunted.wma
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ThemeMain.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ThemeBoss.wma
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ThemeBoss.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ThemeEnding.wma
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ThemeMain.wma
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ThemeVictory.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ThemeVictory.wma
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ThemeEnding.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\gameover.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\gameover.wma
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ThemeDay.xnb
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ThemeDay.wma
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Hero of Farbelia.exe.manifest
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Hero of Farbelia.application
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\obj\x86\Debug\Hero of Farbelia.exe.manifest
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\obj\x86\Debug\Hero of Farbelia.application

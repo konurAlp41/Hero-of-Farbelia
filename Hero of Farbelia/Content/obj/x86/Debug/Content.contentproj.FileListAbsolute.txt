@@ -1,0 +1,3 @@
+C:\Users\ata\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Hero of Farbelia\Hero of Farbelia\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\Content\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hero of Farbelia", "Hero of Farbelia\Hero of Farbelia.csproj", "{03EDB42B-3AD6-434E-942C-9CC563FCA3AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Debug|Xbox 360 = Debug|Xbox 360
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+		Release|Xbox 360 = Release|Xbox 360
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03EDB42B-3AD6-434E-942C-9CC563FCA3AB}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{03EDB42B-3AD6-434E-942C-9CC563FCA3AB}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{03EDB42B-3AD6-434E-942C-9CC563FCA3AB}.Debug|x86.ActiveCfg = Debug|x86
+		{03EDB42B-3AD6-434E-942C-9CC563FCA3AB}.Debug|x86.Build.0 = Debug|x86
+		{03EDB42B-3AD6-434E-942C-9CC563FCA3AB}.Debug|Xbox 360.ActiveCfg = Debug|x86
+		{03EDB42B-3AD6-434E-942C-9CC563FCA3AB}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{03EDB42B-3AD6-434E-942C-9CC563FCA3AB}.Release|Mixed Platforms.Build.0 = Release|x86
+		{03EDB42B-3AD6-434E-942C-9CC563FCA3AB}.Release|x86.ActiveCfg = Release|x86
+		{03EDB42B-3AD6-434E-942C-9CC563FCA3AB}.Release|x86.Build.0 = Release|x86
+		{03EDB42B-3AD6-434E-942C-9CC563FCA3AB}.Release|Xbox 360.ActiveCfg = Release|x86
+		{CAD3E8D2-B979-429E-B919-195BE273BBF6}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{CAD3E8D2-B979-429E-B919-195BE273BBF6}.Debug|x86.ActiveCfg = Debug|x86
+		{CAD3E8D2-B979-429E-B919-195BE273BBF6}.Debug|Xbox 360.ActiveCfg = Debug|x86
+		{CAD3E8D2-B979-429E-B919-195BE273BBF6}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{CAD3E8D2-B979-429E-B919-195BE273BBF6}.Release|x86.ActiveCfg = Release|x86
+		{CAD3E8D2-B979-429E-B919-195BE273BBF6}.Release|Xbox 360.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

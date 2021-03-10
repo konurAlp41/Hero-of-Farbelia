@@ -1,0 +1,1314 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>0.png</Source>
+      <Name>0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\0.xnb</Output>
+      <Time>2015-07-27T15:02:29.2576073+03:00</Time>
+    </Item>
+    <Item>
+      <Source>0mask.png</Source>
+      <Name>0mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\0mask.xnb</Output>
+      <Time>2015-08-08T10:14:20.9705295+03:00</Time>
+    </Item>
+    <Item>
+      <Source>1.png</Source>
+      <Name>1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\1.xnb</Output>
+      <Time>2015-07-27T15:02:29.269608+03:00</Time>
+    </Item>
+    <Item>
+      <Source>10.png</Source>
+      <Name>10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\10.xnb</Output>
+      <Time>2015-07-27T15:02:29.5086217+03:00</Time>
+    </Item>
+    <Item>
+      <Source>10mask.png</Source>
+      <Name>10mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\10mask.xnb</Output>
+      <Time>2015-07-27T15:02:29.5166222+03:00</Time>
+    </Item>
+    <Item>
+      <Source>11.png</Source>
+      <Name>11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\11.xnb</Output>
+      <Time>2015-07-27T15:02:29.5276228+03:00</Time>
+    </Item>
+    <Item>
+      <Source>11mask.png</Source>
+      <Name>11mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\11mask.xnb</Output>
+      <Time>2015-07-27T15:02:29.5396235+03:00</Time>
+    </Item>
+    <Item>
+      <Source>12.png</Source>
+      <Name>12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\12.xnb</Output>
+      <Time>2015-07-29T16:08:12.7137952+03:00</Time>
+    </Item>
+    <Item>
+      <Source>12mask.png</Source>
+      <Name>12mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\12mask.xnb</Output>
+      <Time>2015-07-29T16:00:38.1927981+03:00</Time>
+    </Item>
+    <Item>
+      <Source>13.png</Source>
+      <Name>13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\13.xnb</Output>
+      <Time>2015-07-27T15:02:29.5676251+03:00</Time>
+    </Item>
+    <Item>
+      <Source>13mask.png</Source>
+      <Name>13mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\13mask.xnb</Output>
+      <Time>2015-07-27T15:02:29.5766256+03:00</Time>
+    </Item>
+    <Item>
+      <Source>14.png</Source>
+      <Name>14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\14.xnb</Output>
+      <Time>2015-08-06T07:17:09.9319639+03:00</Time>
+    </Item>
+    <Item>
+      <Source>14mask.png</Source>
+      <Name>14mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\14mask.xnb</Output>
+      <Time>2015-08-12T10:33:24.01689+03:00</Time>
+    </Item>
+    <Item>
+      <Source>15.png</Source>
+      <Name>15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\15.xnb</Output>
+      <Time>2015-07-27T15:02:29.6026271+03:00</Time>
+    </Item>
+    <Item>
+      <Source>15front.png</Source>
+      <Name>15front</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\15front.xnb</Output>
+      <Time>2015-07-27T15:02:29.6116276+03:00</Time>
+    </Item>
+    <Item>
+      <Source>15mask.png</Source>
+      <Name>15mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\15mask.xnb</Output>
+      <Time>2015-08-13T06:35:58.3361235+03:00</Time>
+    </Item>
+    <Item>
+      <Source>16.png</Source>
+      <Name>16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\16.xnb</Output>
+      <Time>2015-07-27T15:02:29.6316287+03:00</Time>
+    </Item>
+    <Item>
+      <Source>16mask.png</Source>
+      <Name>16mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\16mask.xnb</Output>
+      <Time>2015-07-27T15:02:29.6386291+03:00</Time>
+    </Item>
+    <Item>
+      <Source>17.png</Source>
+      <Name>17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\17.xnb</Output>
+      <Time>2015-08-06T08:54:45.0843228+03:00</Time>
+    </Item>
+    <Item>
+      <Source>17mask.png</Source>
+      <Name>17mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\17mask.xnb</Output>
+      <Time>2015-07-27T15:02:29.6566302+03:00</Time>
+    </Item>
+    <Item>
+      <Source>18.png</Source>
+      <Name>18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\18.xnb</Output>
+      <Time>2015-07-28T10:55:42.9683604+03:00</Time>
+    </Item>
+    <Item>
+      <Source>18mask.png</Source>
+      <Name>18mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\18mask.xnb</Output>
+      <Time>2015-07-27T23:05:02.9921289+03:00</Time>
+    </Item>
+    <Item>
+      <Source>19.png</Source>
+      <Name>19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\19.xnb</Output>
+      <Time>2015-08-12T10:05:06.9453133+03:00</Time>
+    </Item>
+    <Item>
+      <Source>19mask.png</Source>
+      <Name>19mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\19mask.xnb</Output>
+      <Time>2015-08-13T06:32:20.2877423+03:00</Time>
+    </Item>
+    <Item>
+      <Source>1mask.png</Source>
+      <Name>1mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\1mask.xnb</Output>
+      <Time>2015-07-27T15:02:29.2746083+03:00</Time>
+    </Item>
+    <Item>
+      <Source>2.png</Source>
+      <Name>2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\2.xnb</Output>
+      <Time>2015-07-27T15:02:29.3016099+03:00</Time>
+    </Item>
+    <Item>
+      <Source>20.png</Source>
+      <Name>20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\20.xnb</Output>
+      <Time>2015-08-06T09:40:40.6950644+03:00</Time>
+    </Item>
+    <Item>
+      <Source>20mask.png</Source>
+      <Name>20mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\20mask.xnb</Output>
+      <Time>2015-08-06T09:38:32.929583+03:00</Time>
+    </Item>
+    <Item>
+      <Source>21.png</Source>
+      <Name>21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\21.xnb</Output>
+      <Time>2015-07-27T15:02:29.7136334+03:00</Time>
+    </Item>
+    <Item>
+      <Source>21front.png</Source>
+      <Name>21front</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\21front.xnb</Output>
+      <Time>2015-07-27T15:02:29.7226339+03:00</Time>
+    </Item>
+    <Item>
+      <Source>21mask.png</Source>
+      <Name>21mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\21mask.xnb</Output>
+      <Time>2015-08-09T07:48:05.7582071+03:00</Time>
+    </Item>
+    <Item>
+      <Source>22.png</Source>
+      <Name>22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\22.xnb</Output>
+      <Time>2015-07-27T15:02:29.7386349+03:00</Time>
+    </Item>
+    <Item>
+      <Source>22mask.png</Source>
+      <Name>22mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\22mask.xnb</Output>
+      <Time>2015-07-27T15:02:29.7456353+03:00</Time>
+    </Item>
+    <Item>
+      <Source>23.png</Source>
+      <Name>23</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\23.xnb</Output>
+      <Time>2015-07-27T15:02:29.7556358+03:00</Time>
+    </Item>
+    <Item>
+      <Source>23mask.png</Source>
+      <Name>23mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\23mask.xnb</Output>
+      <Time>2015-07-27T15:02:29.7636363+03:00</Time>
+    </Item>
+    <Item>
+      <Source>24.png</Source>
+      <Name>24</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\24.xnb</Output>
+      <Time>2015-08-13T14:35:35.8366612+03:00</Time>
+    </Item>
+    <Item>
+      <Source>24mask.png</Source>
+      <Name>24mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\24mask.xnb</Output>
+      <Time>2015-07-27T15:02:29.7826374+03:00</Time>
+    </Item>
+    <Item>
+      <Source>25.png</Source>
+      <Name>25</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\25.xnb</Output>
+      <Time>2015-08-14T08:55:20.3270231+03:00</Time>
+    </Item>
+    <Item>
+      <Source>25mask.png</Source>
+      <Name>25mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\25mask.xnb</Output>
+      <Time>2015-08-14T08:36:24.2168569+03:00</Time>
+    </Item>
+    <Item>
+      <Source>26.png</Source>
+      <Name>26</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\26.xnb</Output>
+      <Time>2015-07-27T15:02:29.8076388+03:00</Time>
+    </Item>
+    <Item>
+      <Source>26mask.png</Source>
+      <Name>26mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\26mask.xnb</Output>
+      <Time>2015-07-27T15:02:29.8166393+03:00</Time>
+    </Item>
+    <Item>
+      <Source>27.png</Source>
+      <Name>27</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\27.xnb</Output>
+      <Time>2015-07-27T15:02:29.8246398+03:00</Time>
+    </Item>
+    <Item>
+      <Source>27mask.png</Source>
+      <Name>27mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\27mask.xnb</Output>
+      <Time>2015-07-27T15:02:29.8326402+03:00</Time>
+    </Item>
+    <Item>
+      <Source>28.png</Source>
+      <Name>28</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\28.xnb</Output>
+      <Time>2015-07-27T15:02:29.8416408+03:00</Time>
+    </Item>
+    <Item>
+      <Source>28mask.png</Source>
+      <Name>28mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\28mask.xnb</Output>
+      <Time>2015-07-27T15:02:29.8496412+03:00</Time>
+    </Item>
+    <Item>
+      <Source>29.png</Source>
+      <Name>29</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\29.xnb</Output>
+      <Time>2015-08-11T14:09:35.5127867+03:00</Time>
+    </Item>
+    <Item>
+      <Source>29mask.png</Source>
+      <Name>29mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\29mask.xnb</Output>
+      <Time>2015-07-27T15:02:29.8666422+03:00</Time>
+    </Item>
+    <Item>
+      <Source>2mask.png</Source>
+      <Name>2mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\2mask.xnb</Output>
+      <Time>2015-07-27T15:02:29.3066101+03:00</Time>
+    </Item>
+    <Item>
+      <Source>3.png</Source>
+      <Name>3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\3.xnb</Output>
+      <Time>2015-07-27T15:02:29.3116104+03:00</Time>
+    </Item>
+    <Item>
+      <Source>30.png</Source>
+      <Name>30</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\30.xnb</Output>
+      <Time>2015-07-31T15:08:18.4311769+03:00</Time>
+    </Item>
+    <Item>
+      <Source>30mask.png</Source>
+      <Name>30mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\30mask.xnb</Output>
+      <Time>2015-07-27T15:02:29.8836432+03:00</Time>
+    </Item>
+    <Item>
+      <Source>31.png</Source>
+      <Name>31</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\31.xnb</Output>
+      <Time>2015-08-06T09:08:09.7494111+03:00</Time>
+    </Item>
+    <Item>
+      <Source>31mask.png</Source>
+      <Name>31mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\31mask.xnb</Output>
+      <Time>2015-10-12T17:09:32.0918713+03:00</Time>
+    </Item>
+    <Item>
+      <Source>32.png</Source>
+      <Name>32</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\32.xnb</Output>
+      <Time>2015-08-12T10:10:17.480748+03:00</Time>
+    </Item>
+    <Item>
+      <Source>32mask.png</Source>
+      <Name>32mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\32mask.xnb</Output>
+      <Time>2015-08-13T06:33:49.0351524+03:00</Time>
+    </Item>
+    <Item>
+      <Source>33.png</Source>
+      <Name>33</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\33.xnb</Output>
+      <Time>2015-07-27T15:02:29.9306458+03:00</Time>
+    </Item>
+    <Item>
+      <Source>33mask.png</Source>
+      <Name>33mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\33mask.xnb</Output>
+      <Time>2015-07-27T15:02:29.9396464+03:00</Time>
+    </Item>
+    <Item>
+      <Source>34.png</Source>
+      <Name>34</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\34.xnb</Output>
+      <Time>2015-07-27T15:02:29.9496469+03:00</Time>
+    </Item>
+    <Item>
+      <Source>34front.png</Source>
+      <Name>34front</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\34front.xnb</Output>
+      <Time>2015-07-27T15:02:29.9576474+03:00</Time>
+    </Item>
+    <Item>
+      <Source>34mask.png</Source>
+      <Name>34mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\34mask.xnb</Output>
+      <Time>2015-08-13T06:36:34.8628607+03:00</Time>
+    </Item>
+    <Item>
+      <Source>35.png</Source>
+      <Name>35</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\35.xnb</Output>
+      <Time>2015-08-06T09:19:23.8778064+03:00</Time>
+    </Item>
+    <Item>
+      <Source>35mask.png</Source>
+      <Name>35mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\35mask.xnb</Output>
+      <Time>2015-07-27T15:02:29.9836489+03:00</Time>
+    </Item>
+    <Item>
+      <Source>36.png</Source>
+      <Name>36</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\36.xnb</Output>
+      <Time>2015-07-27T15:02:29.9916493+03:00</Time>
+    </Item>
+    <Item>
+      <Source>36mask.png</Source>
+      <Name>36mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\36mask.xnb</Output>
+      <Time>2015-07-27T15:02:29.9996498+03:00</Time>
+    </Item>
+    <Item>
+      <Source>37.png</Source>
+      <Name>37</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\37.xnb</Output>
+      <Time>2015-07-27T15:02:30.0106504+03:00</Time>
+    </Item>
+    <Item>
+      <Source>37mask.png</Source>
+      <Name>37mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\37mask.xnb</Output>
+      <Time>2015-08-06T09:47:14.6194379+03:00</Time>
+    </Item>
+    <Item>
+      <Source>4.png</Source>
+      <Name>4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\4.xnb</Output>
+      <Time>2015-07-27T15:02:29.3166107+03:00</Time>
+    </Item>
+    <Item>
+      <Source>4mask.png</Source>
+      <Name>4mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\4mask.xnb</Output>
+      <Time>2015-07-27T15:02:29.3256112+03:00</Time>
+    </Item>
+    <Item>
+      <Source>5.png</Source>
+      <Name>5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\5.xnb</Output>
+      <Time>2015-07-27T15:02:29.3306115+03:00</Time>
+    </Item>
+    <Item>
+      <Source>5mask.png</Source>
+      <Name>5mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\5mask.xnb</Output>
+      <Time>2015-07-27T15:02:29.3356118+03:00</Time>
+    </Item>
+    <Item>
+      <Source>6.png</Source>
+      <Name>6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\6.xnb</Output>
+      <Time>2015-08-06T08:52:21.6466782+03:00</Time>
+    </Item>
+    <Item>
+      <Source>6mask.png</Source>
+      <Name>6mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\6mask.xnb</Output>
+      <Time>2015-07-27T15:02:29.3456124+03:00</Time>
+    </Item>
+    <Item>
+      <Source>7.png</Source>
+      <Name>7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\7.xnb</Output>
+      <Time>2015-08-11T14:09:15.0210334+03:00</Time>
+    </Item>
+    <Item>
+      <Source>7mask.png</Source>
+      <Name>7mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\7mask.xnb</Output>
+      <Time>2015-07-27T17:39:05.575149+03:00</Time>
+    </Item>
+    <Item>
+      <Source>8.png</Source>
+      <Name>8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\8.xnb</Output>
+      <Time>2015-08-09T08:00:35.4666883+03:00</Time>
+    </Item>
+    <Item>
+      <Source>8front.png</Source>
+      <Name>8front</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\8front.xnb</Output>
+      <Time>2015-07-27T15:02:29.3666136+03:00</Time>
+    </Item>
+    <Item>
+      <Source>8mask.png</Source>
+      <Name>8mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\8mask.xnb</Output>
+      <Time>2015-08-09T07:38:51.745266+03:00</Time>
+    </Item>
+    <Item>
+      <Source>9.png</Source>
+      <Name>9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\9.xnb</Output>
+      <Time>2015-07-31T14:58:43.8413122+03:00</Time>
+    </Item>
+    <Item>
+      <Source>9mask.png</Source>
+      <Name>9mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\9mask.xnb</Output>
+      <Time>2015-07-27T15:02:29.3866147+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Hero.png</Source>
+      <Name>Hero</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\Hero.xnb</Output>
+      <Time>2020-06-14T03:08:39.3009475+03:00</Time>
+    </Item>
+    <Item>
+      <Source>table.png</Source>
+      <Name>table</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\table.xnb</Output>
+      <Time>2015-07-27T20:58:10.3097268+03:00</Time>
+    </Item>
+    <Item>
+      <Source>kasabahalkı.png</Source>
+      <Name>kasabahalkı</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\kasabahalkı.xnb</Output>
+      <Time>2015-08-13T06:15:19.4916093+03:00</Time>
+    </Item>
+    <Item>
+      <Source>akrep.png</Source>
+      <Name>akrep</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\akrep.xnb</Output>
+      <Time>2015-07-28T11:36:52.4816085+03:00</Time>
+    </Item>
+    <Item>
+      <Source>saat.png</Source>
+      <Name>saat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\saat.xnb</Output>
+      <Time>2015-07-28T11:36:52.50761+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Items.png</Source>
+      <Name>Items</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\Items.xnb</Output>
+      <Time>2015-08-11T12:20:42.4583336+03:00</Time>
+    </Item>
+    <Item>
+      <Source>ItemMenu.png</Source>
+      <Name>ItemMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ItemMenu.xnb</Output>
+      <Time>2015-07-28T21:33:13.6561303+03:00</Time>
+    </Item>
+    <Item>
+      <Source>ItemSelected.png</Source>
+      <Name>ItemSelected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ItemSelected.xnb</Output>
+      <Time>2015-07-28T21:39:38.5751464+03:00</Time>
+    </Item>
+    <Item>
+      <Source>blocks.png</Source>
+      <Name>blocks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\blocks.xnb</Output>
+      <Time>2015-08-04T13:40:47.3481805+03:00</Time>
+    </Item>
+    <Item>
+      <Source>map.png</Source>
+      <Name>map</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\map.xnb</Output>
+      <Time>2015-07-29T18:54:00.6986178+03:00</Time>
+    </Item>
+    <Item>
+      <Source>3mask.png</Source>
+      <Name>3mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\3mask.xnb</Output>
+      <Time>2015-07-30T21:53:22.8280283+03:00</Time>
+    </Item>
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2015-07-27T22:46:16.3996915+03:00</Time>
+    </Item>
+    <Item>
+      <Source>menuler.png</Source>
+      <Name>menuler</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\menuler.xnb</Output>
+      <Time>2015-08-12T13:15:00.9213042+03:00</Time>
+    </Item>
+    <Item>
+      <Source>cast0mask.png</Source>
+      <Name>cast0mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\cast0mask.xnb</Output>
+      <Time>2015-08-14T09:46:01.6084387+03:00</Time>
+    </Item>
+    <Item>
+      <Source>dooor.png</Source>
+      <Name>dooor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\dooor.xnb</Output>
+      <Time>2015-08-07T05:40:35.0077666+03:00</Time>
+    </Item>
+    <Item>
+      <Source>door.png</Source>
+      <Name>door</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\door.xnb</Output>
+      <Time>2015-08-07T05:40:35.0233916+03:00</Time>
+    </Item>
+    <Item>
+      <Source>can8.png</Source>
+      <Name>can8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\can8.xnb</Output>
+      <Time>2015-08-08T07:54:27.5627661+03:00</Time>
+    </Item>
+    <Item>
+      <Source>parçacık.png</Source>
+      <Name>parçacık</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\parçacık.xnb</Output>
+      <Time>2015-08-08T10:48:19.4279863+03:00</Time>
+    </Item>
+    <Item>
+      <Source>canbar.png</Source>
+      <Name>canbar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\canbar.xnb</Output>
+      <Time>2015-08-08T12:24:49.9641785+03:00</Time>
+    </Item>
+    <Item>
+      <Source>can6.png</Source>
+      <Name>can6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\can6.xnb</Output>
+      <Time>2015-08-08T12:46:38.6652395+03:00</Time>
+    </Item>
+    <Item>
+      <Source>can0.png</Source>
+      <Name>can0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\can0.xnb</Output>
+      <Time>2015-08-30T05:38:56.7634393+03:00</Time>
+    </Item>
+    <Item>
+      <Source>can1.png</Source>
+      <Name>can1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\can1.xnb</Output>
+      <Time>2015-08-30T05:54:08.8606859+03:00</Time>
+    </Item>
+    <Item>
+      <Source>can3.png</Source>
+      <Name>can3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\can3.xnb</Output>
+      <Time>2015-08-09T07:32:47.3906331+03:00</Time>
+    </Item>
+    <Item>
+      <Source>canbol.png</Source>
+      <Name>canbol</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\canbol.xnb</Output>
+      <Time>2015-08-17T12:47:35.9775518+03:00</Time>
+    </Item>
+    <Item>
+      <Source>can7.png</Source>
+      <Name>can7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\can7.xnb</Output>
+      <Time>2015-08-30T05:34:31.2115579+03:00</Time>
+    </Item>
+    <Item>
+      <Source>can5.png</Source>
+      <Name>can5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\can5.xnb</Output>
+      <Time>2015-08-09T13:39:21.5537686+03:00</Time>
+    </Item>
+    <Item>
+      <Source>can2.png</Source>
+      <Name>can2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\can2.xnb</Output>
+      <Time>2015-08-30T06:05:21.884598+03:00</Time>
+    </Item>
+    <Item>
+      <Source>kayıkçı.png</Source>
+      <Name>kayıkçı</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\kayıkçı.xnb</Output>
+      <Time>2015-08-12T10:06:41.744773+03:00</Time>
+    </Item>
+    <Item>
+      <Source>kalkancan.png</Source>
+      <Name>kalkancan</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\kalkancan.xnb</Output>
+      <Time>2015-08-13T05:18:15.0134764+03:00</Time>
+    </Item>
+    <Item>
+      <Source>can4.png</Source>
+      <Name>can4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\can4.xnb</Output>
+      <Time>2015-08-13T06:24:25.4798938+03:00</Time>
+    </Item>
+    <Item>
+      <Source>cast1mask.png</Source>
+      <Name>cast1mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\cast1mask.xnb</Output>
+      <Time>2015-08-14T10:30:26.3884084+03:00</Time>
+    </Item>
+    <Item>
+      <Source>cast2.png</Source>
+      <Name>cast2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\cast2.xnb</Output>
+      <Time>2015-08-15T13:25:01.569773+03:00</Time>
+    </Item>
+    <Item>
+      <Source>cast3.png</Source>
+      <Name>cast3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\cast3.xnb</Output>
+      <Time>2015-08-14T15:10:04.2488577+03:00</Time>
+    </Item>
+    <Item>
+      <Source>cast2mask.png</Source>
+      <Name>cast2mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\cast2mask.xnb</Output>
+      <Time>2015-08-16T14:02:11.2740443+03:00</Time>
+    </Item>
+    <Item>
+      <Source>cast3mask.png</Source>
+      <Name>cast3mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\cast3mask.xnb</Output>
+      <Time>2015-08-16T15:12:15.9010304+03:00</Time>
+    </Item>
+    <Item>
+      <Source>cast4.png</Source>
+      <Name>cast4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\cast4.xnb</Output>
+      <Time>2015-08-15T11:25:11.5266935+03:00</Time>
+    </Item>
+    <Item>
+      <Source>cast4mask.png</Source>
+      <Name>cast4mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\cast4mask.xnb</Output>
+      <Time>2015-08-15T11:25:11.5266935+03:00</Time>
+    </Item>
+    <Item>
+      <Source>cast5.png</Source>
+      <Name>cast5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\cast5.xnb</Output>
+      <Time>2015-08-15T11:25:11.5423195+03:00</Time>
+    </Item>
+    <Item>
+      <Source>cast5mask.png</Source>
+      <Name>cast5mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\cast5mask.xnb</Output>
+      <Time>2015-08-17T05:36:25.9163509+03:00</Time>
+    </Item>
+    <Item>
+      <Source>kapi.png</Source>
+      <Name>kapi</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\kapi.xnb</Output>
+      <Time>2015-08-15T14:01:21.3969161+03:00</Time>
+    </Item>
+    <Item>
+      <Source>boss0.png</Source>
+      <Name>boss0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\boss0.xnb</Output>
+      <Time>2015-08-16T09:49:39.249195+03:00</Time>
+    </Item>
+    <Item>
+      <Source>boss1.png</Source>
+      <Name>boss1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\boss1.xnb</Output>
+      <Time>2015-08-16T14:15:22.6527652+03:00</Time>
+    </Item>
+    <Item>
+      <Source>boss2.png</Source>
+      <Name>boss2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\boss2.xnb</Output>
+      <Time>2015-08-17T06:01:00.3485829+03:00</Time>
+    </Item>
+    <Item>
+      <Source>boss3.png</Source>
+      <Name>boss3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\boss3.xnb</Output>
+      <Time>2015-08-17T08:14:19.0818151+03:00</Time>
+    </Item>
+    <Item>
+      <Source>boss4.png</Source>
+      <Name>boss4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\boss4.xnb</Output>
+      <Time>2015-08-17T08:14:33.4229914+03:00</Time>
+    </Item>
+    <Item>
+      <Source>megadalga.png</Source>
+      <Name>megadalga</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\megadalga.xnb</Output>
+      <Time>2015-08-17T10:15:57.346749+03:00</Time>
+    </Item>
+    <Item>
+      <Source>anam.png</Source>
+      <Name>anam</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\anam.xnb</Output>
+      <Time>2015-09-23T12:41:49.3927851+03:00</Time>
+    </Item>
+    <Item>
+      <Source>end.png</Source>
+      <Name>end</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\end.xnb</Output>
+      <Time>2015-08-18T07:50:00.6378562+03:00</Time>
+    </Item>
+    <Item>
+      <Source>inst.png</Source>
+      <Name>inst</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\inst.xnb</Output>
+      <Time>2015-08-18T09:55:32.0152389+03:00</Time>
+    </Item>
+    <Item>
+      <Source>not.png</Source>
+      <Name>not</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\not.xnb</Output>
+      <Time>2015-08-18T11:01:09.7017436+03:00</Time>
+    </Item>
+    <Item>
+      <Source>cast0.png</Source>
+      <Name>cast0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\cast0.xnb</Output>
+      <Time>2015-10-11T14:47:17.8627085+03:00</Time>
+    </Item>
+    <Item>
+      <Source>cast1.png</Source>
+      <Name>cast1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\cast1.xnb</Output>
+      <Time>2015-10-11T14:31:11.9768003+03:00</Time>
+    </Item>
+    <Item>
+      <Source>ThemeCastle.mp3</Source>
+      <Name>ThemeCastle</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ThemeCastle.xnb</Output>
+      <Extra>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ThemeCastle.wma</Extra>
+      <Time>2015-10-11T15:08:40.7785769+03:00</Time>
+    </Item>
+    <Item>
+      <Source>ThemeHaunted.mp3</Source>
+      <Name>ThemeHaunted</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ThemeHaunted.xnb</Output>
+      <Extra>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ThemeHaunted.wma</Extra>
+      <Time>2015-10-11T15:08:40.7855838+03:00</Time>
+    </Item>
+    <Item>
+      <Source>ThemeTown.mp3</Source>
+      <Name>ThemeTown</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ThemeTown.xnb</Output>
+      <Extra>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ThemeTown.wma</Extra>
+      <Time>2015-10-11T15:08:40.7885864+03:00</Time>
+    </Item>
+    <Item>
+      <Source>ThemeBoss.mp3</Source>
+      <Name>ThemeBoss</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ThemeBoss.xnb</Output>
+      <Extra>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ThemeBoss.wma</Extra>
+      <Time>2015-12-12T20:15:28.3685134+03:00</Time>
+    </Item>
+    <Item>
+      <Source>ThemeEnding.mp3</Source>
+      <Name>ThemeEnding</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ThemeEnding.xnb</Output>
+      <Extra>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ThemeEnding.wma</Extra>
+      <Time>2015-12-12T20:15:28.3735198+03:00</Time>
+    </Item>
+    <Item>
+      <Source>ThemeMain.mp3</Source>
+      <Name>ThemeMain</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ThemeMain.xnb</Output>
+      <Extra>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ThemeMain.wma</Extra>
+      <Time>2015-12-12T20:15:28.3985366+03:00</Time>
+    </Item>
+    <Item>
+      <Source>ThemeVictory.mp3</Source>
+      <Name>ThemeVictory</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ThemeVictory.xnb</Output>
+      <Extra>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ThemeVictory.wma</Extra>
+      <Time>2015-12-12T20:15:28.4005366+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gameover.mp3</Source>
+      <Name>gameover</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\gameover.xnb</Output>
+      <Extra>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\gameover.wma</Extra>
+      <Time>2015-12-13T13:58:42.9234544+03:00</Time>
+    </Item>
+    <Item>
+      <Source>ThemeDay.mp3</Source>
+      <Name>ThemeDay</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ThemeDay.xnb</Output>
+      <Extra>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\ThemeDay.wma</Extra>
+      <Time>2015-12-13T14:08:24.6405402+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\user\Documents\Visual Studio 2008\Projects\Hero of Farbelia\Hero of Farbelia\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-08-03T06:45:18.292922+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
